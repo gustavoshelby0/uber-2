@@ -97,8 +97,11 @@ H5: o “No Driver Found” acontece com maior frequencia anoite no periodo notu
 
 # Próximos passos
 
-Fazer o acompanhamento das futuras correções no sistema de punição dos motoristas para verificar se houve redução na taxa de cancelamento por parte de clientes e motoristas.
+Fazer o acompanhamento das futuras mudanças que a diretoria poderá implementar na cidade de Delhi (Índia).
 
-Este é o retrato do sintoma. Na próxima fase, precisamos responder: isso acontece porque as corridas têm baixo valor? Porque a distância até o embarque é grande? Ou trata-se apenas de má-fé?
+Este é o retrato do sintoma. Na próxima fase, precisamos responder: isso acontece porque as corridas têm baixo valor monetário para o motorista? Ou porque a distância até o embarque é muito grande?
 
-Vamos cruzar os 25% de cancelamentos dos clientes e dos motoristas com o tempo de espera e o valor da corrida para identificar a causa principal e definir se a solução deve ser punitiva ou baseada em reajustes no repasse aos motoristas.
+Para isso, será necessário cruzar os 7% de perdas por "No Driver Found" com o tempo médio de espera dos motoristas por região, e com o valor médio recebido por corrida, a fim de identificar a principal causa do problema.
+
+
+
