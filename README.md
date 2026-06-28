@@ -93,7 +93,7 @@ H5: o “No Driver Found” acontece com maior frequencia anoite no periodo notu
 # Resultados
 
 **📥 Baixe a apresentação em PowerPoint (clique no link e, em seguida, em "Download" ou "View raw"):**  
-  [https://docs.google.com/presentation/d/1XHxmh7erL-NnA13BMChkJsRH5zSv07E2/edit?usp=drive_link&ouid=114029927907630112086&rtpof=true&sd=true](https://docs.google.com/presentation/d/1XHxmh7erL-NnA13BMChkJsRH5zSv07E2)
+  [https://docs.google.com/presentation/d/1jrQ17n-un9UXdU5uls8ValpbZDV1kk1F/edit?usp=sharing&ouid=114029927907630112086&rtpof=true&sd=true](https://docs.google.com/presentation/d/1jrQ17n-un9UXdU5uls8ValpbZDV1kk1F/edit?usp=sharing&ouid=114029927907630112086&rtpof=true&sd=true)
 
 # Próximos passos
 
