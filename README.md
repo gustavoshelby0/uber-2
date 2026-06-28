@@ -1,22 +1,20 @@
-# Análise de  "Driver asked to cancel" da Uber
+# Análise de  "No Driver Found" da Uber
 
 # Problema de Negócio
 
-**Cancelamentos Causados por Falhas Operacionais**
+Problema de Oferta vs. Demanda (Vazamento de Receita
+O dado: Existem centenas de ocorrências de "No Driver Found" (Nenhum Motorista Encontrado) espalhadas por várias localidades e horários.
 
-Uma parcela relevante dos cancelamentos ocorre porque o motorista solicita que o cliente cancele a corrida ou porque permanece parado sem seguir para o local de embarque após aceitar a viagem. Em ambos os casos, o cliente percebe que a corrida provavelmente não será realizada e opta pelo cancelamento.
+O problema de negócio: A plataforma está deixando dinheiro na mesa. Toda vez que um cliente não encontra motorista, a Uber perde 100% da receita daquela viagem.
 
-**Impacto:** Aumento da taxa de cancelamento, perda de receita, piora da experiência do usuário e redução da confiança na plataforma, o que pode levar clientes a utilizar serviços concorrentes.
+Impacto: Perda de Market Share em regiões periféricas (ex: Noida Extension, Greater Noida) e ineficiência na precificação dinâmica (surge pricing) para atrair motoristas para essas áreas no momento certo.
 
 # Premissas da análise
 
-Só analisei o fenômeno:
-Driver asked to cancel (Motorista pediu para cancelar)
+Foi analisado o fenômeno "No Driver Found" (Nenhum Motorista Encontrado).
+Foram analisadas 150.000 corridas da Uber. 
+Os dados são referentes ao ano de 2024, e as corridas analisadas foram realizadas na Índia.
 
-Driver is not moving towards pickup location (O motorista está parado)
-
-Foram analisadas 150.002 corridas da Uber.
-Os dados da Uber são referentes ao ano de 2024.
 
 # Estratégia da solução
 
