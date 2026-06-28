@@ -24,7 +24,7 @@ O método Fato-Dimensão foi usado para desenvolver a análise de dados.
 
 As perguntas abertas são um tipo de demanda muito comum em análise de dados nas quais a demanda possui N possíveis soluções e cabe ao analista de dados avaliar as possibilidades e escolher a alternativa com o maior retorno e o menor esforço possível. Para essa análise, foi definida a seguinte pergunta aberta:
 
-**como a Uber pode resolver o problema de "No Driver Found" (Nenhum Motorista Encontrado)**
+como a Uber pode resolver o problema de "No Driver Found" (Nenhum Motorista Encontrado)
 
 # Passo 2: Transformar pergunta aberta em fechada
 
@@ -32,7 +32,7 @@ As perguntas fechadas são um tipo de demanda muito comum na área de análise d
 
 Para essa análise, foi definida a seguinte pergunta fechada:
 
-**Pergunta Fechada: **Calcule a taxa de corridas perdidas pela Uber por causa do fenomeno "No Driver Found"**
+**Pergunta Fechada: Calcule a taxa de corridas perdidas pela Uber por causa do fenomeno "No Driver Found"
 
 # Passo 3: Definição da Coluna Fato
 
