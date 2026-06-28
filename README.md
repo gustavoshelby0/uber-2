@@ -1,13 +1,13 @@
-# Análise de  "No Driver Found" da Uber
+# Análise de "No Driver Found" da Uber
 
 # Problema de Negócio
 
-Problema de Oferta vs. Demanda (Vazamento de Receita
-O dado: Existem centenas de ocorrências de "No Driver Found" (Nenhum Motorista Encontrado) espalhadas por várias localidades e horários.
+Problema de Oferta vs. Demanda (Vazamento de Receita)
+Os dados: Existem centenas de ocorrências de "No Driver Found" (Nenhum Motorista Encontrado) espalhadas por várias localidades e horários.
 
 O problema de negócio: A plataforma está deixando dinheiro na mesa. Toda vez que um cliente não encontra motorista, a Uber perde 100% da receita daquela viagem.
 
-Impacto: Perda de Market Share em regiões periféricas (ex: Noida Extension, Greater Noida) e ineficiência na precificação dinâmica (surge pricing) para atrair motoristas para essas áreas no momento certo.
+Impacto: Perda de Market Share em regiões periféricas (ex.: Noida Extension, Greater Noida) e ineficiência na precificação dinâmica (surge pricing) para atrair motoristas para essas áreas no momento certo.
 
 # Premissas da análise
 
@@ -32,7 +32,7 @@ As perguntas fechadas são um tipo de demanda muito comum na área de análise d
 
 Para essa análise, foi definida a seguinte pergunta fechada:
 
-Pergunta Fechada: Calcule a taxa de corridas perdidas pela Uber por causa do fenomeno "No Driver Found"
+Pergunta Fechada: Calcule a taxa de corridas perdidas pela Uber por causa do fenômeno "No Driver Found".
 
 # Passo 3: Definição da Coluna Fato
 
@@ -57,15 +57,15 @@ Controle e Identificação do Registro: Booking ID, Customer ID, Booking Status,
 
 # Passo 5: Hipóteses Analíticas
 
-H1: a taxa de corridas perdidas pela uber e de 2%. quando olhado para o “No Driver Found”
+H1: A taxa de corridas perdidas pela Uber é de 2% quando olhado para o "No Driver Found".
 
-H2: o “No Driver Found” so acontece quando o passajeiro esta no ponto de partida na cidade grande
+H2: O "No Driver Found" só acontece quando o passageiro está no ponto de partida na cidade grande.
 
-H3: o "No Driver Found" e alto quando o ponto de desembarque e na cidade grande
+H3: O "No Driver Found" é alto quando o ponto de desembarque é na cidade grande.
 
-H4: o “No Driver Found” tem a maior taxa quando e no uber xl. porque esse veiculo tem pouca disponibilidade
+H4: O "No Driver Found" tem a maior taxa quando é no Uber XL, porque esse veículo tem pouca disponibilidade.
 
-H5: o “No Driver Found” acontece com maior frequencia anoite no periodo noturno (6 a 12pm)
+H5: O "No Driver Found" acontece com maior frequência à noite, no período noturno (6 às 12pm).
 
 Fiz no início apenas 4 Hipóteses para quebrar o gelo. Isso é uma análise exploratória do dataframe com base na pergunta fechada que o Analista de Dados Sr (Gustavo Shelby) me sugeriu.
 
@@ -78,15 +78,15 @@ Fiz no início apenas 4 Hipóteses para quebrar o gelo. Isso é uma análise exp
 
 # Passo 7: Priorização das Hipóteses Analíticas
 
-H1: a taxa de corridas perdidas pela uber e de 2%. quando olhado para o “No Driver Found”
+H1: A taxa de corridas perdidas pela Uber é de 2% quando olhado para o "No Driver Found".
 
-H2: o “No Driver Found” so acontece quando o passajeiro esta no ponto de partida na cidade grande
+H2: O "No Driver Found" só acontece quando o passageiro está no ponto de partida na cidade grande.
 
-H3: o "No Driver Found" e alto quando o ponto de desembarque e na cidade grande
+H3: O "No Driver Found" é alto quando o ponto de desembarque é na cidade grande.
 
-H4: o “No Driver Found” tem a maior taxa quando e no uber xl. porque esse veiculo tem pouca disponibilidade
+H4: O "No Driver Found" tem a maior taxa quando é no Uber XL, porque esse veículo tem pouca disponibilidade.
 
-H5: o “No Driver Found” acontece com maior frequencia anoite no periodo noturno (6 a 12pm)
+H5: O "No Driver Found" acontece com maior frequência à noite, no período noturno (6 às 12pm).
 
 # Insights da análise
 
@@ -102,6 +102,3 @@ Fazer o acompanhamento das futuras mudanças que a diretoria poderá implementar
 Este é o retrato do sintoma. Na próxima fase, precisamos responder: isso acontece porque as corridas têm baixo valor monetário para o motorista? Ou porque a distância até o embarque é muito grande?
 
 Para isso, será necessário cruzar os 7% de perdas por "No Driver Found" com o tempo médio de espera dos motoristas por região, e com o valor médio recebido por corrida, a fim de identificar a principal causa do problema.
-
-
-
