@@ -32,7 +32,7 @@ As perguntas fechadas são um tipo de demanda muito comum na área de análise d
 
 Para essa análise, foi definida a seguinte pergunta fechada:
 
-**Pergunta Fechada: Calcule a taxa de corridas perdidas pela Uber por causa do fenomeno "No Driver Found"
+Pergunta Fechada: Calcule a taxa de corridas perdidas pela Uber por causa do fenomeno "No Driver Found"
 
 # Passo 3: Definição da Coluna Fato
 
