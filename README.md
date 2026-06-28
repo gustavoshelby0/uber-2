@@ -32,9 +32,7 @@ As perguntas fechadas são um tipo de demanda muito comum na área de análise d
 
 Para essa análise, foi definida a seguinte pergunta fechada:
 
-**Pergunta Fechada: **Calcule a taxa de cancelamento dos motoristas em comparação com a dos clientes nos últimos 30 dias, considerando todo o país.**
-
-**Como se trata de uma comparação entre motoristas e clientes, considero aceitável que as taxas percentuais sejam semelhantes. Caso exista uma discrepância significativa entre as taxas de cancelamento, medidas mais diretas devem ser adotadas.**
+**Pergunta Fechada: **Calcule a taxa de corridas perdidas pela Uber por causa do fenomeno "No Driver Found"**
 
 # Passo 3: Definição da Coluna Fato
 
@@ -59,23 +57,15 @@ Controle e Identificação do Registro: Booking ID, Customer ID, Booking Status,
 
 # Passo 5: Hipóteses Analíticas
 
-H1: Cliente tem uma taxa de cancelamento de corrida de 4%
+H1: a taxa de corridas perdidas pela uber e de 2%. quando olhado para o “No Driver Found”
 
-H2: Motoristas têm uma taxa de cancelamento na corrida de 20%
+H2: o “No Driver Found” so acontece quando o passajeiro esta no ponto de partida na cidade grande
 
-H3: Os motoristas que têm a maior taxa de cancelamento trabalham de carro
+H3: o "No Driver Found" e alto quando o ponto de desembarque e na cidade grande
 
-H4: Os passageiros de moto têm maior taxa de cancelamento em comparação com os que pedem carro
+H4: o “No Driver Found” tem a maior taxa quando e no uber xl. porque esse veiculo tem pouca disponibilidade
 
-H5: Os clientes que mais cancelam é porque mudaram de ideia
-
-H6: Os clientes que menos cancelam é porque o motorista forçou o cancelamento
-
-H7: As corridas que têm mais cancelamentos são as mais baratas
-
-H8: Os motoristas cancelam porque a corrida é longa e o retorno é baixo para eles
-
-H9: Motoristas com baixa avaliação cancelam mais
+H5: o “No Driver Found” acontece com maior frequencia anoite no periodo noturno (6 a 12pm)
 
 Fiz no início apenas 4 Hipóteses para quebrar o gelo. Isso é uma análise exploratória do dataframe com base na pergunta fechada que o Analista de Dados Sr (Gustavo Shelby) me sugeriu.
 
@@ -88,23 +78,15 @@ Fiz no início apenas 4 Hipóteses para quebrar o gelo. Isso é uma análise exp
 
 # Passo 7: Priorização das Hipóteses Analíticas
 
-H1: Cliente tem uma taxa de cancelamento de corrida de 4%
+H1: a taxa de corridas perdidas pela uber e de 2%. quando olhado para o “No Driver Found”
 
-H2: Motoristas têm uma taxa de cancelamento na corrida de 20%
+H2: o “No Driver Found” so acontece quando o passajeiro esta no ponto de partida na cidade grande
 
-H3: Os motoristas que têm a maior taxa de cancelamento trabalham de carro
+H3: o "No Driver Found" e alto quando o ponto de desembarque e na cidade grande
 
-H4: Os passageiros de moto têm maior taxa de cancelamento em comparação com os que pedem carro
+H4: o “No Driver Found” tem a maior taxa quando e no uber xl. porque esse veiculo tem pouca disponibilidade
 
-H5: Os clientes que mais cancelam é porque mudaram de ideia
-
-H6: Os clientes que menos cancelam é porque o motorista forçou o cancelamento
-
-H7: As corridas que têm mais cancelamentos são as mais baratas
-
-H8: Os motoristas cancelam porque a corrida é longa e o retorno é baixo para eles
-
-H9: Motoristas com baixa avaliação cancelam mais
+H5: o “No Driver Found” acontece com maior frequencia anoite no periodo noturno (6 a 12pm)
 
 # Insights da análise
 
