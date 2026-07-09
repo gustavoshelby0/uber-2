@@ -2,7 +2,7 @@
 
 ## PPT criado a mão pelo Gustavo Shelby
 
-[Baixe a apresentação em PowerPoint - Driver asked to cancel ](https://docs.google.com/presentation/d/1jrQ17n-un9UXdU5uls8ValpbZDV1kk1F)
+[Baixe a apresentação em PowerPoint - No Driver Found ](https://docs.google.com/presentation/d/1jrQ17n-un9UXdU5uls8ValpbZDV1kk1F)
 
 
 ## Data Analyst LLM
@@ -107,8 +107,19 @@ H5: O "No Driver Found" acontece com maior frequência à noite, no período not
 
 # Resultados
 
-**📥 Baixe a apresentação em PowerPoint (clique no link e, em seguida, em "Download" ou "View raw"):**  
-  [https://docs.google.com/presentation/d/1jrQ17n-un9UXdU5uls8ValpbZDV1kk1F/edit?usp=sharing&ouid=114029927907630112086&rtpof=true&sd=true](https://docs.google.com/presentation/d/1jrQ17n-un9UXdU5uls8ValpbZDV1kk1F/edit?usp=sharing&ouid=114029927907630112086&rtpof=true&sd=true)
+## PPT criado a mão pelo Gustavo Shelby
+
+[Baixe a apresentação em PowerPoint - No Driver Found ](https://docs.google.com/presentation/d/1jrQ17n-un9UXdU5uls8ValpbZDV1kk1F)
+
+
+## Data Analyst LLM
+
+
+📥 **Baixe a apresentação estilo Power BI em HTML:**
+[Clique aqui para acessar o arquivo](https://drive.google.com/file/d/1eZmfi-tiykcCluhiSgVrHfmM5EN4kzoR/view?usp=sharing)
+
+📥 **Baixe a apresentação executiva em HTML:**
+[Clique aqui para acessar o arquivo](https://drive.google.com/file/d/1VTzUgYKojNdwUImGSKUTfO4avyiENZo3/view?usp=sharing)
 
 # Próximos passos
 
