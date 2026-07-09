@@ -1,5 +1,20 @@
 # Análise de "No Driver Found" da Uber
 
+## PPT criado a mão pelo Gustavo Shelby
+
+[Baixe a apresentação em PowerPoint - Driver asked to cancel ](https://docs.google.com/presentation/d/1jrQ17n-un9UXdU5uls8ValpbZDV1kk1F)
+
+
+## Data Analyst LLM
+
+
+📥 **Baixe a apresentação estilo Power BI em HTML:**
+[Clique aqui para acessar o arquivo](https://drive.google.com/file/d/1eZmfi-tiykcCluhiSgVrHfmM5EN4kzoR/view?usp=sharing)
+
+📥 **Baixe a apresentação executiva em HTML:**
+[Clique aqui para acessar o arquivo](https://drive.google.com/file/d/1VTzUgYKojNdwUImGSKUTfO4avyiENZo3/view?usp=sharing)
+
+
 # Problema de Negócio
 
 Problema de Oferta vs. Demanda (Vazamento de Receita)
